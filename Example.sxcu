@@ -1,0 +1,13 @@
+﻿{
+  "Version": "13.7.0",
+  "Name": "YOUR NAME HERE",
+  "DestinationType": "ImageUploader",
+  "RequestMethod": "POST",
+  "RequestURL": "PATH_TO_UPLOAD_PHP_FILE",
+  "Body": "MultipartFormData",
+  "Arguments": {
+    "key": "KEY_HERE",
+    "name": "%rn%rn%rn%rn%rn%rn"
+  },
+  "FileFormName": "d"
+}
