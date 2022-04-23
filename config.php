@@ -3,9 +3,9 @@
 return array(
     'secure_key' => 'KEY_HERE',
 
-    'output_url' => 'https://reactor.codemafia.org/captures/',
+    'output_url' => 'https://your-url.com/captures/',
 
-    'redirect_url' => 'https://reactor.codemafia.org/captures/',
+    'redirect_url' => 'https://your-url.com/captures/',
 
     'allowed_ips' => array(),
 
